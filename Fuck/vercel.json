@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/Ritzen",
+      "destination": "https://discord.gg/kvchgKwhV4",
+      "permanent": true
+    },
+    {
+      "source": "/gunslol",
+      "destination": "https://guns.lol/Ritzen",
+      "permanent": true
+    }
+  ]
+}
